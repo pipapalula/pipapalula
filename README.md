@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![pipapalula's github stats](https://github-readme-stats.vercel.app/api?username=pipapalula&show_icons=true&theme=default&cache_seconds=1800)
 <!--
 **pipapalula/pipapalula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
