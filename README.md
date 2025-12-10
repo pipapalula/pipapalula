@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 
+### Nice to meet you 😄
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pipapalula&theme=default)
 
 <!-- 기술 스택 뱃지 -->
