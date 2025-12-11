@@ -1,17 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=4254ff&fontSize=50&&fontAlignY=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=어서오세요%20👋%20범이의%20KJB%20😊&fontColor=4254ff&fontSize=50&&fontAlignY=20&animation=fadeIn)
 
 
-## Hi there 👋
+## 안녕하세요 범이의 Workspace입니다. 👋
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pipapalula&theme=default)
 
 <!-- 기술 스택 뱃지 -->
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
+ <ul style="display: flex; justify-content: space-between; width: 100%; height: 50px; font-size: 10px;">
+        <li style="border-radius: 50%; background-color: orangered;">html</li>
+        <li style="border-radius: 50%; background-color: rgb(0, 68, 255);">css</li>
+        <li style="border-radius: 50%; background-color: rgb(255, 251, 0);">j-Qurey</li>
+        <li style="border-radius: 50%; background-color: rgb(0, 17, 255);">Photoshop</li>
+        <li style="border-radius: 50%; background-color: rgb(255, 136, 0);">illustrator</li>
+        <li style="border-radius: 50%; background-color: rgb(189, 189, 189);">CLIP STUDIO PAINT</li>
+    </ul>
 <!-- 방문자 수 -->
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
