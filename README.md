@@ -1,8 +1,12 @@
 <!-- HEADER WITH CHARACTER -->
+
 <div style="position: relative; width: 100%;">
 
   <!-- Wave Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=94B3FD&height=240&section=header" width="100%"/>
+ <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Front-end%20×%20Design&fontSize=45&fontAlignY=38&color=94B3FD&fontColor=ffffff"
+    width="100%"
+  />
   
   <!-- Character Image -->
   <img src="https://cdn.pixabay.com/photo/2024/08/06/18/44/ai-generated-8949999_1280.jpg" 
@@ -25,19 +29,20 @@
 
 ---
 
-## 🚀 Tech Stack (Modern Style)
+## ⚡ Tech Stack
 
 <div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1EFF?style=for-the-badge&logo=javascript&logoColor=000)
-![JQuery](https://img.shields.io/badge/jQuery-0865A6?style=for-the-badge&logo=jquery&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-ff9a00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-1DA774?style=for-the-badge&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-FF6D28?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00A8E8?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCEE0C?style=for-the-badge&logo=javascript&logoColor=000)
+![jQuery](https://img.shields.io/badge/jQuery-08F7FE?style=for-the-badge&logo=jquery&logoColor=000)
+![Photoshop](https://img.shields.io/badge/Photoshop-2EC9FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Illustrator-FFAC1C?style=for-the-badge&logo=adobeillustrator&logoColor=black)
+![ClipStudioPaint](https://img.shields.io/badge/ClipStudio-00FFAE?style=for-the-badge&logoColor=black)
 
 </div>
+
 
 ---
 
